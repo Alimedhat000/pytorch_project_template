@@ -7,8 +7,8 @@
 ├── .env               
 ├── .gitignore         
 ├── README.md          
-├── data
-│   ├── processed      <- The final, processed data sets for modeling.
+├── data               <- (Not Version Controlled)
+│   ├── processed      <- The final, processed data sets for modeling. 
 │   └── raw            <- The original, data dump.
 │
 ├── experiments        <- Experiment logs and results
